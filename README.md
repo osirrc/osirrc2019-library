@@ -17,9 +17,9 @@ TODO: add link to repo and docker hub.
 
 Execution log:
 
-Date | Host | Jig | Image |
-:----|:-----|:----|:------|
-yyyy/mm/dd | Azure instance... | `commit xxxxxx` | `commit xxxxxx`
+Date | Host | Jig | Image | Collection |
+:----|:-----|:----|:------|:-----------|
+yyyy/mm/dd | Azure instance... | `commit xxxxxx` | `commit xxxxxx` | Robust04
 
 ## ATIRE
 
