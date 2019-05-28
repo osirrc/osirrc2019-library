@@ -4,9 +4,11 @@ This repo catalogs the images that have been submitted to the SIGIR 2019 Open-So
 
 + Anserini
 + ATIRE
++ ielab
 + Indri
 + JASS
 + JASSv2
++ NVSM
 + OldDog
 + PISA
 + Terrier
@@ -31,9 +33,19 @@ Run | Date | Host | Jig | Image | Collection |
 :----|:----|:-----|:----|:------|:-----------|
 [0](runs/atire/0) | 2019/05/27 | Azure Standard_D64s_v3 | `2307f2c0171ee4808940a634e471955f55def1a3` | `ebdc0762b07d4395b85d766b0e5df08b6855fae5` | Robust04
 
+## ielab
+
+[GitHub](https://github.com/osirrc/ielab-docker) & [Docker Hub](https://hub.docker.com/r/osirrc2019/ielab)
+
+Execution log:
+
+Run | Date | Host | Jig | Image | Collection |
+:----|:----|:-----|:----|:------|:-----------|
+0 | yyyy/mm/dd | Azure instance... | `xxxxxx` | `xxxxxx` | Robust04
+
 ## Indri
 
-[GitHub]() & [Docker Hub]()
+[GitHub](https://github.com/osirrc/indri-docker) & [Docker Hub](https://hub.docker.com/r/osirrc2019/indri)
 
 Execution log:
 
@@ -60,6 +72,16 @@ Execution log:
 Run | Date | Host | Jig | Image | Collection |
 :----|:----|:-----|:----|:------|:-----------|
 [0](runs/jassv2/0) | 2019/05/27 | Azure Standard_D64s_v3 | `2307f2c0171ee4808940a634e471955f55def1a3` | `018981e564bb3adc9401a3d2d24166dbf6092b38` | Robust04
+
+## NVSM
+
+[GitHub](https://github.com/osirrc/nvsm-docker) & [Docker Hub](https://hub.docker.com/r/osirrc2019/nvsm)
+
+Execution log:
+
+Run | Date | Host | Jig | Image | Collection |
+:----|:----|:-----|:----|:------|:-----------|
+0 | yyyy/mm/dd | Azure instance... | `xxxxxx` | `xxxxxx` | Robust04
 
 ## OldDog
 
