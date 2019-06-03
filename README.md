@@ -23,7 +23,7 @@ Execution log:
 
 Run | Date | Collection | Host | Jig | Image |
 :----|:----|:-----|:----|:------|:-----------|
-[anserini-20190527-robust04](runs/anserini-20190527-robust04) | 2019/05/27 | Robust04 | Azure Standard_D64s_v3 | `2307f2c` (May 25, 2019) | `dd4fbde` (May 10, 2019)
+[anserini-20190527-robust04](runs/anserini-20190527-robust04) | 2019/05/27 | Robust04 | Azure Standard_D64s_v3 | `2307f2c` (2019-05-25) | `dd4fbde` (2019-05-10)
 ## ATIRE
 
 [GitHub](https://github.com/osirrc/atire-docker) & [Docker Hub](https://hub.docker.com/r/osirrc2019/atire)
@@ -32,7 +32,7 @@ Execution log:
 
 Run | Date | Collection | Host | Jig | Image |
 :----|:----|:-----|:----|:------|:-----------|
-[atire-20190527-robust04](runs/atire-20190527-robust04) | 2019/05/27 | Robust04 | Azure Standard_D64s_v3 | `2307f2c` (May 25, 2019) | `ebdc076` (May 17, 2019)
+[atire-20190527-robust04](runs/atire-20190527-robust04) | 2019/05/27 | Robust04 | Azure Standard_D64s_v3 | `2307f2c` (2019-05-25) | `ebdc076` (2019-05-17)
 
 ## birch
 
@@ -82,7 +82,7 @@ Execution log:
 
 Run | Date | Collection | Host | Jig | Image |
 :----|:----|:-----|:----|:------|:-----------|
-[jass-20190527-robust04](runs/jass-20190527-robust04) | 2019/05/27 | Robust04 | Azure Standard_D64s_v3 | `2307f2c` (May 25, 2019) | `16480cf` (May 8, 2019)
+[jass-20190527-robust04](runs/jass-20190527-robust04) | 2019/05/27 | Robust04 | Azure Standard_D64s_v3 | `2307f2c` (2019-05-25) | `16480cf` (2019-05-08)
 
 ## JASSv2
 
@@ -92,7 +92,7 @@ Execution log:
 
 Run | Date | Collection | Host | Jig | Image |
 :----|:----|:-----|:----|:------|:-----------|
-[jassv2-20190527-robust04](runs/jassv2-20190527-robust04) | 2019/05/27 | Robust04 | Azure Standard_D64s_v3 | `2307f2c` (May 25, 2019) | `018981e` (May 8, 2019)
+[jassv2-20190527-robust04](runs/jassv2-20190527-robust04) | 2019/05/27 | Robust04 | Azure Standard_D64s_v3 | `2307f2c` (2019-05-25) | `018981e` (2019-05-08)
 
 ## NVSM
 
@@ -112,7 +112,7 @@ Execution log:
 
 Run | Date | Collection | Host | Jig | Image |
 :----|:----|:-----|:----|:------|:-----------|
-[olddog-20190527-robust04](runs/olddog-20190527-robust04) | 2019/05/27 | Robust04 | Azure Standard_D64s_v3 | `2307f2c` (May 25, 2019) | `dd8b230` (May 17, 2019)
+[olddog-20190527-robust04](runs/olddog-20190527-robust04) | 2019/05/27 | Robust04 | Azure Standard_D64s_v3 | `2307f2c` (2019-05-25) | `dd8b230` (2019-05-17)
 
 ## PISA
 
@@ -122,7 +122,7 @@ Execution log:
 
 Run | Date | Collection | Host | Jig | Image |
 :----|:----|:-----|:----|:------|:-----------|
-[pisa-20190527-robust04](runs/pisa-20190527-robust04) | 2019/05/27 | Robust04 | Azure Standard_D64s_v3 | `2307f2c` (May 25, 2019) | `095e9ce` (May 7, 2019)
+[pisa-20190527-robust04](runs/pisa-20190527-robust04) | 2019/05/27 | Robust04 | Azure Standard_D64s_v3 | `2307f2c` (2019-05-25) | `095e9ce` (2019-05-07)
 
 ## Terrier
 
