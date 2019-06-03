@@ -33,6 +33,16 @@ Run | Date | Host | Jig | Image | Collection |
 :----|:----|:-----|:----|:------|:-----------|
 [0](runs/atire/0) | 2019/05/27 | Azure Standard_D64s_v3 | `2307f2c0171ee4808940a634e471955f55def1a3` | `ebdc0762b07d4395b85d766b0e5df08b6855fae5` | Robust04
 
+## birch
+
+[GitHub](https://github.com/osirrc/birch-docker) & [Docker Hub](https://hub.docker.com/r/osirrc2019/birch)
+
+Execution log:
+
+Run | Date | Host | Jig | Image | Collection |
+:----|:----|:-----|:----|:------|:-----------|
+0 | yyyy/mm/dd | Azure instance... | `xxxxxx` | `xxxxxx` | Robust04
+
 ## ielab
 
 [GitHub](https://github.com/osirrc/ielab-docker) & [Docker Hub](https://hub.docker.com/r/osirrc2019/ielab)
@@ -46,6 +56,16 @@ Run | Date | Host | Jig | Image | Collection |
 ## Indri
 
 [GitHub](https://github.com/osirrc/indri-docker) & [Docker Hub](https://hub.docker.com/r/osirrc2019/indri)
+
+Execution log:
+
+Run | Date | Host | Jig | Image | Collection |
+:----|:----|:-----|:----|:------|:-----------|
+0 | yyyy/mm/dd | Azure instance... | `xxxxxx` | `xxxxxx` | Robust04
+
+## irc-centre2019
+
+[GitHub](https://github.com/osirrc/irc-centre2019-docker) & [Docker Hub](https://hub.docker.com/r/osirrc2019/irc-centre2019)
 
 Execution log:
 
