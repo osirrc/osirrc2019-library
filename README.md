@@ -4,8 +4,10 @@ This repo catalogs the images that have been submitted to the SIGIR 2019 Open-So
 
 + Anserini
 + ATIRE
++ birch
 + ielab
 + Indri
++ irc-centre2019
 + JASS
 + JASSv2
 + NVSM
