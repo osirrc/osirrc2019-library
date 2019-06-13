@@ -16,8 +16,9 @@ This repo catalogs the images that have been submitted to the SIGIR 2019 Open-So
 + Terrier
 
 ## Anserini
-
-[GitHub](https://github.com/osirrc/anserini-docker) & [Docker Hub](https://hub.docker.com/r/osirrc2019/anserini)
+[![Generic badge](https://img.shields.io/badge/GitHub-go%21-green.svg)](https://github.com/osirrc/anserini-docker)
+[![Generic badge](https://img.shields.io/badge/DockerHub-go%21-yellow.svg)](https://hub.docker.com/r/osirrc2019/anserini)
+[![DOI](https://zenodo.org/badge/190048534.svg)](https://zenodo.org/badge/latestdoi/190048534)
 
 Execution log:
 
