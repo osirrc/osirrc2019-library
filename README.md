@@ -13,7 +13,7 @@ This repo catalogs the images that have been submitted to the SIGIR 2019 Open-So
 + NVSM
 + OldDog
 + PISA
-+ Terrier
++ [Terrier](#Terrier)
 
 ## Anserini
 [![Generic badge](https://img.shields.io/badge/GitHub-go%21-green.svg)](https://github.com/osirrc/anserini-docker)
@@ -125,7 +125,7 @@ Run | Date | Collection | Host | Jig | Image |
 :----|:----|:-----|:----|:------|:-----------|
 [pisa-20190527-robust04](runs/pisa-20190527-robust04) | 2019/05/27 | Robust04 | Azure Standard_D64s_v3 | `2307f2c` (2019-05-25) | `095e9ce` (2019-05-07)
 
-## Terrier
+## Terrier <a name="Terrier"></a>
 
 [GitHub](https://github.com/osirrc/terrier-docker) & [Docker Hub](https://hub.docker.com/r/osirrc2019/terrier)
 
