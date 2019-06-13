@@ -2,7 +2,7 @@
 
 This repo catalogs the images that have been submitted to the SIGIR 2019 Open-Source IR Replicability Challenge (OSIRRC 2019).
 
-+ Anserini
++ [Anserini](#Anserini)
 + ATIRE
 + birch
 + ielab
@@ -15,7 +15,7 @@ This repo catalogs the images that have been submitted to the SIGIR 2019 Open-So
 + PISA
 + [Terrier](#Terrier)
 
-## Anserini
+## Anserini <a name="Anserini"></a>
 [![Generic badge](https://img.shields.io/badge/GitHub-go%21-green.svg)](https://github.com/osirrc/anserini-docker)
 [![Generic badge](https://img.shields.io/badge/DockerHub-go%21-yellow.svg)](https://hub.docker.com/r/osirrc2019/anserini)
 [![DOI](https://zenodo.org/badge/190048534.svg)](https://zenodo.org/badge/latestdoi/190048534)
