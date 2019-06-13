@@ -12,7 +12,7 @@ This repo catalogs the images that have been submitted to the SIGIR 2019 Open-So
 + JASSv2
 + NVSM
 + OldDog
-+ PISA
++ [PISA](#PISA)
 + [Terrier](#Terrier)
 
 <a name="Anserini"></a>
