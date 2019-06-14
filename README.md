@@ -121,6 +121,7 @@ Run | Date | Collection | Host | Jig | Image |
 ## OldDog
 [![Generic badge](https://img.shields.io/badge/GitHub-go%21-green.svg)](https://github.com/osirrc/olddog-docker)
 [![Generic badge](https://img.shields.io/badge/DockerHub-go%21-yellow.svg)](https://hub.docker.com/r/osirrc2019/olddog)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.3246441.svg)](https://doi.org/10.5281/zenodo.3246441)
 
 Execution log:
 
