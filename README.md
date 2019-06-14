@@ -3,15 +3,15 @@
 This repo catalogs the images that have been submitted to the SIGIR 2019 Open-Source IR Replicability Challenge (OSIRRC 2019).
 
 + [Anserini](#Anserini)
-+ ATIRE
-+ birch
++ [ATIRE](#ATIRE)
++ [Birch](#Birch)
 + ielab
-+ Indri
-+ irc-centre2019
-+ JASS
-+ JASSv2
-+ NVSM
-+ OldDog
++ [Indri](#Indri)
++ [IRC-CENTRE2019](#IRC-CENTRE2019)
++ [JASS](#JASS)
++ [JASSv2](#JASSvs)
++ [NVSM](#NVSM)
++ [OldDog](#OldDog)
 + [PISA](#PISA)
 + [Terrier](#Terrier)
 
@@ -27,6 +27,7 @@ Run | Date | Collection | Host | Jig | Image |
 :----|:----|:-----|:----|:------|:-----------|
 [anserini-20190527-robust04](runs/anserini-20190527-robust04) | 2019/05/27 | Robust04 | Azure Standard_D64s_v3 | `2307f2c` (2019-05-25) | `dd4fbde` (2019-05-10)
 
+<a name="ATIRE"></a>
 ## ATIRE
 [![Generic badge](https://img.shields.io/badge/GitHub-go%21-green.svg)](https://github.com/osirrc/atire-docker)
 [![Generic badge](https://img.shields.io/badge/DockerHub-go%21-yellow.svg)](https://hub.docker.com/r/osirrc2019/atire)
@@ -37,6 +38,7 @@ Run | Date | Collection | Host | Jig | Image |
 :----|:----|:-----|:----|:------|:-----------|
 [atire-20190527-robust04](runs/atire-20190527-robust04) | 2019/05/27 | Robust04 | Azure Standard_D64s_v3 | `2307f2c` (2019-05-25) | `ebdc076` (2019-05-17)
 
+<a name="Birch"></a>
 ## Birch
 [![Generic badge](https://img.shields.io/badge/GitHub-go%21-green.svg)](https://github.com/osirrc/birch-docker)
 [![Generic badge](https://img.shields.io/badge/DockerHub-go%21-yellow.svg)](https://hub.docker.com/r/osirrc2019/birch)
@@ -58,6 +60,7 @@ Run | Date | Collection | Host | Jig | Image |
 :----|:----|:-----|:----|:------|:-----------|
 0 | yyyy/mm/dd | Robust04 | Azure instance... | `xxxxxx` | `xxxxxx`
 
+<a name="Indri"></a>
 ## Indri
 [![Generic badge](https://img.shields.io/badge/GitHub-go%21-green.svg)](https://github.com/osirrc/indri-docker)
 [![Generic badge](https://img.shields.io/badge/DockerHub-go%21-yellow.svg)](https://hub.docker.com/r/osirrc2019/indri)
@@ -68,9 +71,11 @@ Run | Date | Collection | Host | Jig | Image |
 :----|:----|:-----|:----|:------|:-----------|
 0 | yyyy/mm/dd | Robust04 | Azure instance... | `xxxxxx` | `xxxxxx`
 
-## irc-centre2019
+<a name="IRC-CENTRE2019"></a>
+## IRC-CENTRE2019 
 [![Generic badge](https://img.shields.io/badge/GitHub-go%21-green.svg)](https://github.com/osirrc/irc-centre2019-docker)
 [![Generic badge](https://img.shields.io/badge/DockerHub-go%21-yellow.svg)](https://hub.docker.com/r/osirrc2019/irc-centre2019)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.3245439.svg)](https://doi.org/10.5281/zenodo.3245439)
 
 Execution log:
 
@@ -78,6 +83,7 @@ Run | Date | Collection | Host | Jig | Image |
 :----|:----|:-----|:----|:------|:-----------|
 0 | yyyy/mm/dd | Robust04 | Azure instance... | `xxxxxx` | `xxxxxx`
 
+<a name="JASS"></a>
 ## JASS
 [![Generic badge](https://img.shields.io/badge/GitHub-go%21-green.svg)](https://github.com/osirrc/jass-docker)
 [![Generic badge](https://img.shields.io/badge/DockerHub-go%21-yellow.svg)](https://hub.docker.com/r/osirrc2019/jass)
@@ -88,6 +94,7 @@ Run | Date | Collection | Host | Jig | Image |
 :----|:----|:-----|:----|:------|:-----------|
 [jass-20190527-robust04](runs/jass-20190527-robust04) | 2019/05/27 | Robust04 | Azure Standard_D64s_v3 | `2307f2c` (2019-05-25) | `16480cf` (2019-05-08)
 
+<a name="JASSv2"></a>
 ## JASSv2
 [![Generic badge](https://img.shields.io/badge/GitHub-go%21-green.svg)](https://github.com/osirrc/jassv2-docker)
 [![Generic badge](https://img.shields.io/badge/DockerHub-go%21-yellow.svg)](https://hub.docker.com/r/osirrc2019/jassv2)
@@ -98,10 +105,10 @@ Run | Date | Collection | Host | Jig | Image |
 :----|:----|:-----|:----|:------|:-----------|
 [jassv2-20190527-robust04](runs/jassv2-20190527-robust04) | 2019/05/27 | Robust04 | Azure Standard_D64s_v3 | `2307f2c` (2019-05-25) | `018981e` (2019-05-08)
 
+<a name="NVSM"></a>
 ## NVSM
 [![Generic badge](https://img.shields.io/badge/GitHub-go%21-green.svg)](https://github.com/osirrc/nvsm-docker)
 [![Generic badge](https://img.shields.io/badge/DockerHub-go%21-yellow.svg)](https://hub.docker.com/r/osirrc2019/nvsm)
-
 
 Execution log:
 
@@ -109,6 +116,7 @@ Run | Date | Collection | Host | Jig | Image |
 :----|:----|:-----|:----|:------|:-----------|
 0 | yyyy/mm/dd | Robust04 | Azure instance... | `xxxxxx` | `xxxxxx`
 
+<a name="OldDog"></a>
 ## OldDog
 [![Generic badge](https://img.shields.io/badge/GitHub-go%21-green.svg)](https://github.com/osirrc/olddog-docker)
 [![Generic badge](https://img.shields.io/badge/DockerHub-go%21-yellow.svg)](https://hub.docker.com/r/osirrc2019/olddog)
@@ -119,6 +127,7 @@ Run | Date | Collection | Host | Jig | Image |
 :----|:----|:-----|:----|:------|:-----------|
 [olddog-20190527-robust04](runs/olddog-20190527-robust04) | 2019/05/27 | Robust04 | Azure Standard_D64s_v3 | `2307f2c` (2019-05-25) | `dd8b230` (2019-05-17)
 
+<a name="PISA"></a>
 ## PISA
 [![Generic badge](https://img.shields.io/badge/GitHub-go%21-green.svg)](https://github.com/osirrc/pisa-docker)
 [![Generic badge](https://img.shields.io/badge/DockerHub-go%21-yellow.svg)](https://hub.docker.com/r/osirrc2019/pisa)
