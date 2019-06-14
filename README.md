@@ -9,7 +9,7 @@ This repo catalogs the images that have been submitted to the SIGIR 2019 Open-So
 + [Indri](#Indri)
 + [IRC-CENTRE2019](#IRC-CENTRE2019)
 + [JASS](#JASS)
-+ [JASSv2](#JASSvs)
++ [JASSv2](#JASSv2)
 + [NVSM](#NVSM)
 + [OldDog](#OldDog)
 + [PISA](#PISA)
