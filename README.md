@@ -65,6 +65,7 @@ Output | Date | Collection | Host | Jig | Image |
 ## Indri
 [![Generic badge](https://img.shields.io/badge/GitHub-go%21-green.svg)](https://github.com/osirrc/indri-docker)
 [![Generic badge](https://img.shields.io/badge/DockerHub-go%21-yellow.svg)](https://hub.docker.com/r/osirrc2019/indri)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.3247067.svg)](https://doi.org/10.5281/zenodo.3247067)
 
 Execution log:
 
