@@ -24,9 +24,9 @@ The actual raw runs are held in a [separate repository](https://github.com/osirr
 
 Execution log:
 
-Run | Date | Collection | Host | Jig | Image |
+Output | Date | Collection | Host | Jig | Image |
 :----|:----|:-----|:----|:------|:-----------|
-[anserini-20190527-robust04](runs/anserini-20190527-robust04) | 2019/05/27 | Robust04 | Azure Standard_D64s_v3 | `2307f2c` (2019-05-25) | `dd4fbde` (2019-05-10)
+[[link](https://github.com/osirrc/osirrc2019-runs/tree/master/anserini-20190527-robust04)] | 2019/05/27 | Robust04 | Azure Standard_D64s_v3 | `2307f2c` (2019-05-25) | `dd4fbde` (2019-05-10)
 
 <a name="ATIRE"></a>
 ## ATIRE
@@ -35,9 +35,9 @@ Run | Date | Collection | Host | Jig | Image |
 
 Execution log:
 
-Run | Date | Collection | Host | Jig | Image |
+Output | Date | Collection | Host | Jig | Image |
 :----|:----|:-----|:----|:------|:-----------|
-[atire-20190527-robust04](runs/atire-20190527-robust04) | 2019/05/27 | Robust04 | Azure Standard_D64s_v3 | `2307f2c` (2019-05-25) | `ebdc076` (2019-05-17)
+[[link](https://github.com/osirrc/osirrc2019-runs/tree/master/atire-20190527-robust04)] | 2019/05/27 | Robust04 | Azure Standard_D64s_v3 | `2307f2c` (2019-05-25) | `ebdc076` (2019-05-17)
 
 <a name="Birch"></a>
 ## Birch
@@ -47,7 +47,7 @@ Run | Date | Collection | Host | Jig | Image |
 
 Execution log:
 
-Run | Date | Collection | Host | Jig | Image |
+Output | Date | Collection | Host | Jig | Image |
 :----|:----|:-----|:----|:------|:-----------|
 0 | yyyy/mm/dd | Robust04 | Azure instance... | `xxxxxx` | `xxxxxx`
 
@@ -57,7 +57,7 @@ Run | Date | Collection | Host | Jig | Image |
 
 Execution log:
 
-Run | Date | Collection | Host | Jig | Image |
+Output | Date | Collection | Host | Jig | Image |
 :----|:----|:-----|:----|:------|:-----------|
 0 | yyyy/mm/dd | Robust04 | Azure instance... | `xxxxxx` | `xxxxxx`
 
@@ -68,7 +68,7 @@ Run | Date | Collection | Host | Jig | Image |
 
 Execution log:
 
-Run | Date | Collection | Host | Jig | Image |
+Output | Date | Collection | Host | Jig | Image |
 :----|:----|:-----|:----|:------|:-----------|
 0 | yyyy/mm/dd | Robust04 | Azure instance... | `xxxxxx` | `xxxxxx`
 
@@ -80,7 +80,7 @@ Run | Date | Collection | Host | Jig | Image |
 
 Execution log:
 
-Run | Date | Collection | Host | Jig | Image |
+Output | Date | Collection | Host | Jig | Image |
 :----|:----|:-----|:----|:------|:-----------|
 0 | yyyy/mm/dd | Robust04 | Azure instance... | `xxxxxx` | `xxxxxx`
 
@@ -91,9 +91,9 @@ Run | Date | Collection | Host | Jig | Image |
 
 Execution log:
 
-Run | Date | Collection | Host | Jig | Image |
+Output | Date | Collection | Host | Jig | Image |
 :----|:----|:-----|:----|:------|:-----------|
-[jass-20190527-robust04](runs/jass-20190527-robust04) | 2019/05/27 | Robust04 | Azure Standard_D64s_v3 | `2307f2c` (2019-05-25) | `16480cf` (2019-05-08)
+[[link](https://github.com/osirrc/osirrc2019-runs/tree/master/jass-20190527-robust04)] | 2019/05/27 | Robust04 | Azure Standard_D64s_v3 | `2307f2c` (2019-05-25) | `16480cf` (2019-05-08)
 
 <a name="JASSv2"></a>
 ## JASSv2
@@ -102,9 +102,9 @@ Run | Date | Collection | Host | Jig | Image |
 
 Execution log:
 
-Run | Date | Collection | Host | Jig | Image |
+Output | Date | Collection | Host | Jig | Image |
 :----|:----|:-----|:----|:------|:-----------|
-[jassv2-20190527-robust04](runs/jassv2-20190527-robust04) | 2019/05/27 | Robust04 | Azure Standard_D64s_v3 | `2307f2c` (2019-05-25) | `018981e` (2019-05-08)
+[[link](https://github.com/osirrc/osirrc2019-runs/tree/master/jassv2-20190527-robust04)] | 2019/05/27 | Robust04 | Azure Standard_D64s_v3 | `2307f2c` (2019-05-25) | `018981e` (2019-05-08)
 
 <a name="NVSM"></a>
 ## NVSM
@@ -126,9 +126,9 @@ Run | Date | Collection | Host | Jig | Image |
 
 Execution log:
 
-Run | Date | Collection | Host | Jig | Image |
+Output | Date | Collection | Host | Jig | Image |
 :----|:----|:-----|:----|:------|:-----------|
-[olddog-20190527-robust04](runs/olddog-20190527-robust04) | 2019/05/27 | Robust04 | Azure Standard_D64s_v3 | `2307f2c` (2019-05-25) | `dd8b230` (2019-05-17)
+[[link](https://github.com/osirrc/osirrc2019-runs/tree/master/olddog-20190527-robust04)] | 2019/05/27 | Robust04 | Azure Standard_D64s_v3 | `2307f2c` (2019-05-25) | `dd8b230` (2019-05-17)
 
 <a name="PISA"></a>
 ## PISA
@@ -138,9 +138,9 @@ Run | Date | Collection | Host | Jig | Image |
 
 Execution log:
 
-Run | Date | Collection | Host | Jig | Image |
+Output | Date | Collection | Host | Jig | Image |
 :----|:----|:-----|:----|:------|:-----------|
-[pisa-20190527-robust04](runs/pisa-20190527-robust04) | 2019/05/27 | Robust04 | Azure Standard_D64s_v3 | `2307f2c` (2019-05-25) | `095e9ce` (2019-05-07)
+[[link](https://github.com/osirrc/osirrc2019-runs/tree/master/pisa-20190527-robust04)] | 2019/05/27 | Robust04 | Azure Standard_D64s_v3 | `2307f2c` (2019-05-25) | `095e9ce` (2019-05-07)
 
 <a name="Terrier"></a>
 ## Terrier
@@ -150,6 +150,6 @@ Run | Date | Collection | Host | Jig | Image |
 
 Execution log:
 
-Run | Date | Collection | Host | Jig | Image |
+Output | Date | Collection | Host | Jig | Image |
 :----|:----|:-----|:----|:------|:-----------|
 0 | yyyy/mm/dd | Robust04 | Azure instance... | `xxxxxx` | `xxxxxx`
