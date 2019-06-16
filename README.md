@@ -32,6 +32,7 @@ Output | Date | Collection | Host | Jig | Image |
 ## ATIRE
 [![Generic badge](https://img.shields.io/badge/GitHub-go%21-green.svg)](https://github.com/osirrc/atire-docker)
 [![Generic badge](https://img.shields.io/badge/DockerHub-go%21-yellow.svg)](https://hub.docker.com/r/osirrc2019/atire)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.3247156.svg)](https://doi.org/10.5281/zenodo.3247156)
 
 Execution log:
 
