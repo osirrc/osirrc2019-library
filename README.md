@@ -1,6 +1,7 @@
 # OSIRRC 2019 Image Library
 
-This repo catalogs the images that have been submitted to the SIGIR 2019 Open-Source IR Replicability Challenge (OSIRRC 2019).
+This repo catalogs the images that have been submitted to the [SIGIR 2019 Open-Source IR Replicability Challenge (OSIRRC 2019)](https://osirrc.github.io/osirrc2019/).
+The actual raw runs are held in a [separate repository](https://github.com/osirrc/osirrc2019-runs).
 
 + [Anserini](#Anserini)
 + [ATIRE](#ATIRE)
