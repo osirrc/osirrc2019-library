@@ -26,7 +26,7 @@ Execution log:
 
 Output | Date | Collection | Host | Jig | Image |
 :----|:----|:-----|:----|:------|:-----------|
-[[link](https://github.com/osirrc/osirrc2019-runs/tree/master/anserini-20190527-robust04)] | 2019/05/27 | Robust04 | Azure Standard_D64s_v3 | `2307f2c` (2019-05-25) | `dd4fbde` (2019-05-10)
+[[link](https://github.com/osirrc/osirrc2019-runs/tree/master/anserini-20190527-robust04)] | 2019/05/27 | Robust04 | `Standard_D64s_v3` | [`2307f2c`](https://github.com/osirrc/jig/commit/2307f2c0171ee4808940a634e471955f55def1a3) | [`dd4fbde`](https://github.com/osirrc/anserini-docker/commit/dd4fbde7ff06db3ed0b1fdb76b7fab063aeddabd)
 
 <a name="ATIRE"></a>
 ## ATIRE
