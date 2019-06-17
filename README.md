@@ -6,7 +6,6 @@ The actual raw runs are held in a [separate repository](https://github.com/osirr
 + [Anserini](#Anserini)
 + [ATIRE](#ATIRE)
 + [Birch](#Birch)
-+ ielab
 + [Indri](#Indri)
 + [IRC-CENTRE2019](#IRC-CENTRE2019)
 + [JASS](#JASS)
@@ -52,16 +51,6 @@ Output | Date | Collection | Host | Jig | Image |
 :----|:----|:-----|:----|:------|:-----------|
 0 | yyyy/mm/dd | Robust04 | Azure instance... | `xxxxxx` | `xxxxxx`
 
-## ielab
-[![Generic badge](https://img.shields.io/badge/GitHub-go%21-green.svg)](https://github.com/osirrc/ielab-docker)
-[![Generic badge](https://img.shields.io/badge/DockerHub-go%21-yellow.svg)](https://hub.docker.com/r/osirrc2019/ielab)
-
-Execution log:
-
-Output | Date | Collection | Host | Jig | Image |
-:----|:----|:-----|:----|:------|:-----------|
-0 | yyyy/mm/dd | Robust04 | Azure instance... | `xxxxxx` | `xxxxxx`
-
 <a name="Indri"></a>
 ## Indri
 [![Generic badge](https://img.shields.io/badge/GitHub-go%21-green.svg)](https://github.com/osirrc/indri-docker)
@@ -90,6 +79,7 @@ Output | Date | Collection | Host | Jig | Image |
 ## JASS
 [![Generic badge](https://img.shields.io/badge/GitHub-go%21-green.svg)](https://github.com/osirrc/jass-docker)
 [![Generic badge](https://img.shields.io/badge/DockerHub-go%21-yellow.svg)](https://hub.docker.com/r/osirrc2019/jass)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.3247163.svg)](https://doi.org/10.5281/zenodo.3247163)
 
 Execution log:
 
@@ -101,6 +91,7 @@ Output | Date | Collection | Host | Jig | Image |
 ## JASSv2
 [![Generic badge](https://img.shields.io/badge/GitHub-go%21-green.svg)](https://github.com/osirrc/jassv2-docker)
 [![Generic badge](https://img.shields.io/badge/DockerHub-go%21-yellow.svg)](https://hub.docker.com/r/osirrc2019/jassv2)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.3247175.svg)](https://doi.org/10.5281/zenodo.3247175)
 
 Execution log:
 
