@@ -64,7 +64,7 @@ Execution log:
 
 Output | Date | Collection | Host | Jig | Image |
 :----|:----|:-----|:----|:------|:-----------|
-0 | yyyy/mm/dd | Robust04 | Azure instance... | `xxxxxx` | `xxxxxx`
+[[link](https://github.com/osirrc/osirrc2019-runs/tree/master/indri/robust04/2019-06-17)] | 2019/06/17 | Robust04 | `Standard_D64s_v3` | `v0.1.1` | `0.1.0`
 
 <a name="IRC-CENTRE2019"></a>
 ## IRC-CENTRE2019 
