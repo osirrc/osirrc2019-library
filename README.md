@@ -94,6 +94,7 @@ Execution log:
 
 Output | Date | Collection | Host | Jig | Image |
 :------|:-----|:-----------|:-----|:----|:------|
+[[link](https://github.com/osirrc/osirrc2019-runs/tree/master/jass/core17/2019-06-18)] | 2019/06/18 | core17 | `Standard_D64s_v3` | `v0.1.0` | `0.1.0`
 [[link](https://github.com/osirrc/osirrc2019-runs/tree/master/jass/robust04/2019-06-17)] | 2019/06/17 | Robust04 | `Standard_D64s_v3` | `v0.1.0` | `0.1.0`
 [[link](https://github.com/osirrc/osirrc2019-runs/tree/master/jass/robust04/2019-05-27)] | 2019/05/27 | Robust04 | `Standard_D64s_v3` | [`2307f2c`](https://github.com/osirrc/jig/commit/2307f2c0171ee4808940a634e471955f55def1a3) | [`16480cf`](https://github.com/osirrc/jass-docker/commit/16480cfa196f0a3463744eafbf579a86942efa91)
 
@@ -108,6 +109,7 @@ Execution log:
 
 Output | Date | Collection | Host | Jig | Image |
 :------|:-----|:-----------|:-----|:----|:------|
+[[link](https://github.com/osirrc/osirrc2019-runs/tree/master/jassv2/core17/2019-06-18)] | 2019/06/18 | core17 | `Standard_D64s_v3` | `v0.1.0` | `0.1.0`
 [[link](https://github.com/osirrc/osirrc2019-runs/tree/master/jassv2/robust04/2019-06-17)] | 2019/06/17 | Robust04 | `Standard_D64s_v3` | `v0.1.0` | `0.1.0`
 [[link](https://github.com/osirrc/osirrc2019-runs/tree/master/jassv2/robust04/2019-05-27)] | 2019/05/27 | Robust04 |  `Standard_D64s_v3` | [`2307f2c`](https://github.com/osirrc/jig/commit/2307f2c0171ee4808940a634e471955f55def1a3) | [`018981e`](https://github.com/osirrc/jassv2-docker/commit/018981e564bb3adc9401a3d2d24166dbf6092b38)
 
