@@ -40,6 +40,7 @@ Execution log:
 
 Output | Date | Collection | Host | Jig | Image |
 :------|:-----|:-----------|:-----|:----|:------|
+[[link](https://github.com/osirrc/osirrc2019-runs/tree/master/atire/core17/2019-06-18)] | 2019/06/18 | core17 | `Standard_D64s_v3` | `v0.1.0` | `0.1.0`
 [[link](https://github.com/osirrc/osirrc2019-runs/tree/master/atire/robust04/2019-06-17)] | 2019/06/17 | Robust04 | `Standard_D64s_v3` | `v0.1.0` | `0.1.0`
 [[link](https://github.com/osirrc/osirrc2019-runs/tree/master/atire/robust04/2019-05-27)] | 2019/05/27 | Robust04 | `Standard_D64s_v3` | [`2307f2c`](https://github.com/osirrc/jig/commit/2307f2c0171ee4808940a634e471955f55def1a3) | [`ebdc076`](https://github.com/osirrc/atire-docker/commit/ebdc0762b07d4395b85d766b0e5df08b6855fae5)
 
