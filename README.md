@@ -25,7 +25,7 @@ Execution log:
 
 Output | Date | Collection | Host | Jig | Image |
 :------|:-----|:-----------|:-----|:----|:------|
-[[link](https://github.com/osirrc/osirrc2019-runs/tree/master/anserini/robust04/2019-06-17)] | 2019/06/17 | Robust04 | `Standard_D64s_v3` | `v0.1.1` | `v0.1.1`
+[[link](https://github.com/osirrc/osirrc2019-runs/tree/master/anserini/robust04/2019-06-17)] | 2019/06/17 | Robust04 | `Standard_D64s_v3` | `v0.1.0` | `v0.1.1`
 [[link](https://github.com/osirrc/osirrc2019-runs/tree/master/anserini/robust04/2019-05-27)] | 2019/05/27 | Robust04 | `Standard_D64s_v3` | [`2307f2c`](https://github.com/osirrc/jig/commit/2307f2c0171ee4808940a634e471955f55def1a3) | [`dd4fbde`](https://github.com/osirrc/anserini-docker/commit/dd4fbde7ff06db3ed0b1fdb76b7fab063aeddabd)
 
 
@@ -39,7 +39,7 @@ Execution log:
 
 Output | Date | Collection | Host | Jig | Image |
 :------|:-----|:-----------|:-----|:----|:------|
-[[link](https://github.com/osirrc/osirrc2019-runs/tree/master/atire/robust04/2019-06-17)] | 2019/06/17 | Robust04 | `Standard_D64s_v3` | `v0.1.1` | `0.1.0`
+[[link](https://github.com/osirrc/osirrc2019-runs/tree/master/atire/robust04/2019-06-17)] | 2019/06/17 | Robust04 | `Standard_D64s_v3` | `v0.1.0` | `0.1.0`
 [[link](https://github.com/osirrc/osirrc2019-runs/tree/master/atire/robust04/2019-05-27)] | 2019/05/27 | Robust04 | `Standard_D64s_v3` | [`2307f2c`](https://github.com/osirrc/jig/commit/2307f2c0171ee4808940a634e471955f55def1a3) | [`ebdc076`](https://github.com/osirrc/atire-docker/commit/ebdc0762b07d4395b85d766b0e5df08b6855fae5)
 
 
@@ -53,7 +53,7 @@ Execution log:
 
 Output | Date | Collection | Host | Jig | Image |
 :------|:-----|:-----------|:-----|:----|:------|
-[[link](https://github.com/osirrc/osirrc2019-runs/tree/master/birch/robust04/2019-06-17)] | 2019/06/17 | Robust04 | `Standard_D64s_v3` | `v0.1.1` | `v0.1.0`
+[[link](https://github.com/osirrc/osirrc2019-runs/tree/master/birch/robust04/2019-06-17)] | 2019/06/17 | Robust04 | `Standard_D64s_v3` | `v0.1.0` | `v0.1.0`
 
 
 <a name="Indri"></a>
@@ -66,7 +66,7 @@ Execution log:
 
 Output | Date | Collection | Host | Jig | Image |
 :------|:-----|:-----------|:-----|:----|:------|
-[[link](https://github.com/osirrc/osirrc2019-runs/tree/master/indri/robust04/2019-06-17)] | 2019/06/17 | Robust04 | `Standard_D64s_v3` | `v0.1.1` | `0.1.0`
+[[link](https://github.com/osirrc/osirrc2019-runs/tree/master/indri/robust04/2019-06-17)] | 2019/06/17 | Robust04 | `Standard_D64s_v3` | `v0.1.0` | `0.1.0`
 
 
 <a name="IRC-CENTRE2019"></a>
@@ -92,7 +92,7 @@ Execution log:
 
 Output | Date | Collection | Host | Jig | Image |
 :------|:-----|:-----------|:-----|:----|:------|
-[[link](https://github.com/osirrc/osirrc2019-runs/tree/master/jass/robust04/2019-06-17)] | 2019/06/17 | Robust04 | `Standard_D64s_v3` | `v0.1.1` | `0.1.0`
+[[link](https://github.com/osirrc/osirrc2019-runs/tree/master/jass/robust04/2019-06-17)] | 2019/06/17 | Robust04 | `Standard_D64s_v3` | `v0.1.0` | `0.1.0`
 [[link](https://github.com/osirrc/osirrc2019-runs/tree/master/jass/robust04/2019-05-27)] | 2019/05/27 | Robust04 | `Standard_D64s_v3` | [`2307f2c`](https://github.com/osirrc/jig/commit/2307f2c0171ee4808940a634e471955f55def1a3) | [`16480cf`](https://github.com/osirrc/jass-docker/commit/16480cfa196f0a3463744eafbf579a86942efa91)
 
 
@@ -106,7 +106,7 @@ Execution log:
 
 Output | Date | Collection | Host | Jig | Image |
 :------|:-----|:-----------|:-----|:----|:------|
-[[link](https://github.com/osirrc/osirrc2019-runs/tree/master/jassv2/robust04/2019-06-17)] | 2019/06/17 | Robust04 | `Standard_D64s_v3` | `v0.1.1` | `0.1.0`
+[[link](https://github.com/osirrc/osirrc2019-runs/tree/master/jassv2/robust04/2019-06-17)] | 2019/06/17 | Robust04 | `Standard_D64s_v3` | `v0.1.0` | `0.1.0`
 [[link](https://github.com/osirrc/osirrc2019-runs/tree/master/jassv2/robust04/2019-05-27)] | 2019/05/27 | Robust04 |  `Standard_D64s_v3` | [`2307f2c`](https://github.com/osirrc/jig/commit/2307f2c0171ee4808940a634e471955f55def1a3) | [`018981e`](https://github.com/osirrc/jassv2-docker/commit/018981e564bb3adc9401a3d2d24166dbf6092b38)
 
 
@@ -133,7 +133,7 @@ Execution log:
 
 Output | Date | Collection | Host | Jig | Image |
 :------|:-----|:-----------|:-----|:----|:------|
-[[link](https://github.com/osirrc/osirrc2019-runs/tree/master/olddog/robust04/2019-06-17)] | 2019/06/17 | Robust04 | `Standard_D64s_v3` | `v0.1.1` | `v0.2.0`
+[[link](https://github.com/osirrc/osirrc2019-runs/tree/master/olddog/robust04/2019-06-17)] | 2019/06/17 | Robust04 | `Standard_D64s_v3` | `v0.1.0` | `v0.2.0`
 [[link](https://github.com/osirrc/osirrc2019-runs/tree/master/olddog/robust04/2019-05-27)] | 2019/05/27 | Robust04 |  `Standard_D64s_v3` | [`2307f2c`](https://github.com/osirrc/jig/commit/2307f2c0171ee4808940a634e471955f55def1a3) | [`dd8b230`](https://github.com/osirrc/olddog-docker/commit/dd8b23036b76cd0f2d004b6823b0c17065013eb7)
 
 
@@ -147,7 +147,7 @@ Execution log:
 
 Output | Date | Collection | Host | Jig | Image |
 :------|:-----|:-----------|:-----|:----|:------|
-[[link](https://github.com/osirrc/osirrc2019-runs/tree/master/pisa/robust04/2019-06-17)] | 2019/06/17 | Robust04 | `Standard_D64s_v3` | `v0.1.1` | `v0.1.2`
+[[link](https://github.com/osirrc/osirrc2019-runs/tree/master/pisa/robust04/2019-06-17)] | 2019/06/17 | Robust04 | `Standard_D64s_v3` | `v0.1.0` | `v0.1.2`
 [[link](https://github.com/osirrc/osirrc2019-runs/tree/master/pisa/robust04/2019-05-27)] | 2019/05/27 | Robust04 | `Standard_D64s_v3` | [`2307f2c`](https://github.com/osirrc/jig/commit/2307f2c0171ee4808940a634e471955f55def1a3) | [`095e9ce`](https://github.com/osirrc/pisa-docker/commit/095e9ce8b3e07ce1066b527dfd1ea8ae72f92a16)
 
 
@@ -161,4 +161,4 @@ Execution log:
 
 Output | Date | Collection | Host | Jig | Image |
 :------|:-----|:-----------|:-----|:----|:------|
-[[link](https://github.com/osirrc/osirrc2019-runs/tree/master/terrier/robust04/2019-06-17)] | 2019/06/17 | Robust04 | `Standard_D64s_v3` | `v0.1.1` | `v0.1.5`
+[[link](https://github.com/osirrc/osirrc2019-runs/tree/master/terrier/robust04/2019-06-17)] | 2019/06/17 | Robust04 | `Standard_D64s_v3` | `v0.1.0` | `v0.1.5`
