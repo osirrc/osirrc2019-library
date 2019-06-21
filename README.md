@@ -4,6 +4,7 @@ This repo catalogs the images that have been submitted to the [SIGIR 2019 Open-S
 The actual raw runs are held in a [separate repository](https://github.com/osirrc/osirrc2019-runs).
 
 + [Anserini](#Anserini)
++ [Anserini-bm25prf](#Anserini-bm25prf)
 + [ATIRE](#ATIRE)
 + [Birch](#Birch)
 + [Indri](#Indri)
@@ -30,6 +31,17 @@ Output | Date | Collection | Host | Jig | Image |
 [[link](https://github.com/osirrc/osirrc2019-runs/tree/master/anserini/robust04/2019-06-17)] | 2019/06/17 | robust04 | `Standard_D64s_v3` | `v0.1.0` | `v0.1.1`
 [[link](https://github.com/osirrc/osirrc2019-runs/tree/master/anserini/robust04/2019-05-27)] | 2019/05/27 | robust04 | `Standard_D64s_v3` | [`2307f2c`](https://github.com/osirrc/jig/commit/2307f2c0171ee4808940a634e471955f55def1a3) | [`dd4fbde`](https://github.com/osirrc/anserini-docker/commit/dd4fbde7ff06db3ed0b1fdb76b7fab063aeddabd)
 
+<a name="Anserini-bm25prf"></a>
+## Anserini-bm25prf
+[![Generic badge](https://img.shields.io/badge/GitHub-go%21-green.svg)](https://github.com/osirrc/anserini-bm25prf-docker)
+[![Generic badge](https://img.shields.io/badge/DockerHub-go%21-yellow.svg)](https://hub.docker.com/r/osirrc2019/anserini-bm25prf)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.3251482.svg)](https://doi.org/10.5281/zenodo.3251482)
+
+Execution log:
+
+Output | Date | Collection | Host | Jig | Image |
+:------|:-----|:-----------|:-----|:----|:------|
+[[link](https://github.com/osirrc/osirrc2019-runs/tree/master/anserini-bm25prf/robust04/2019-06-21)] | 2019/06/21 | robust04 | `Standard_D64s_v3` | `v0.1.0` | `v0.2.2`
 
 <a name="ATIRE"></a>
 ## ATIRE
