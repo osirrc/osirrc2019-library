@@ -94,8 +94,7 @@ Execution log:
 
 Output | Date | Collection | Host | Jig | Image |
 :------|:-----|:-----------|:-----|:----|:------|
-0 | yyyy/mm/dd | Robust04 | Azure instance... | `xxxxxx` | `xxxxxx`
-
+[[link](https://github.com/osirrc/osirrc2019-runs/tree/master/irc-centre2019/core17/2019-06-24)] | 2019/06/24 | core17 | `Standard_D64s_v3` | `v0.1.0` | `v0.1.3`
 
 <a name="JASS"></a>
 ## JASS
@@ -137,8 +136,7 @@ Execution log:
 
 Output | Date | Collection | Host | Jig | Image |
 :------|:-----|:-----------|:-----|:----|:------|
-0 | yyyy/mm/dd | Robust04 | Azure instance... | `xxxxxx` | `xxxxxx`
-
+[[link](https://github.com/osirrc/osirrc2019-runs/tree/master/nvsm/robust04/2019-06-24)] | 2019/06/124| robust04 | `Standard_D64s_v3` | `v0.1.0` | `v0.1.0`
 
 <a name="OldDog"></a>
 ## OldDog
