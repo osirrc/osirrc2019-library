@@ -7,6 +7,7 @@ The actual raw runs are held in a [separate repository](https://github.com/osirr
 + [Anserini-bm25prf](#Anserini-bm25prf)
 + [ATIRE](#ATIRE)
 + [Birch](#Birch)
++ [elastirini](#elastirini)
 + [galago](#galago)
 + [ielab](#ielab)
 + [Indri](#Indri)
@@ -16,6 +17,7 @@ The actual raw runs are held in a [separate repository](https://github.com/osirr
 + [NVSM](#NVSM)
 + [OldDog](#OldDog)
 + [PISA](#PISA)
++ [solrini](#solrini)
 + [Terrier](#Terrier)
 
 <a name="Anserini"></a>
@@ -78,6 +80,14 @@ Output | Date | Collection | Host | Jig | Image |
 :------|:-----|:-----------|:-----|:----|:------|
 [[link](https://github.com/osirrc/osirrc2019-runs/tree/master/birch/robust04/2019-06-28)] | 2019/06/28 | robust04 | `Standard_D64s_v3` | `v0.1.1` | `v0.1.0`
 [[link](https://github.com/osirrc/osirrc2019-runs/tree/master/birch/robust04/2019-06-17)] | 2019/06/17 | robust04 | `Standard_D64s_v3` | `v0.1.0` | `v0.1.0`
+
+<a name="elastirini"></a>
+## elastirini
+[![Generic badge](https://img.shields.io/badge/GitHub-go%21-green.svg)](https://github.com/osirrc/elastirini-docker)
+[![Generic badge](https://img.shields.io/badge/DockerHub-go%21-yellow.svg)](https://hub.docker.com/r/osirrc2019/elastirini)
+[![DOI](https://zenodo.org/badge/191802305.svg)](https://zenodo.org/badge/latestdoi/191802305)
+
+Execution log: See [Anserini](#Anserini)
 
 <a name="galago"></a>
 ## galago
@@ -209,6 +219,13 @@ Output | Date | Collection | Host | Jig | Image |
 [[link](https://github.com/osirrc/osirrc2019-runs/tree/master/pisa/robust04/2019-06-17)] | 2019/06/17 | robust04 | `Standard_D64s_v3` | `v0.1.0` | `v0.1.2`
 [[link](https://github.com/osirrc/osirrc2019-runs/tree/master/pisa/robust04/2019-05-27)] | 2019/05/27 | robust04 | `Standard_D64s_v3` | [`2307f2c`](https://github.com/osirrc/jig/commit/2307f2c0171ee4808940a634e471955f55def1a3) | [`095e9ce`](https://github.com/osirrc/pisa-docker/commit/095e9ce8b3e07ce1066b527dfd1ea8ae72f92a16)
 
+<a name="solrini"></a>
+## solrini
+[![Generic badge](https://img.shields.io/badge/GitHub-go%21-green.svg)](https://github.com/osirrc/solrini-docker)
+[![Generic badge](https://img.shields.io/badge/DockerHub-go%21-yellow.svg)](https://hub.docker.com/r/osirrc2019/solrini)
+[![DOI](https://zenodo.org/badge/182200684.svg)](https://zenodo.org/badge/latestdoi/182200684)
+
+Execution log: See [Anserini](#Anserini)
 
 <a name="Terrier"></a>
 ## Terrier
