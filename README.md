@@ -44,6 +44,7 @@ Execution log:
 
 Output | Date | Collection | Host | Jig | Image |
 :------|:-----|:-----------|:-----|:----|:------|
+[[link](https://github.com/osirrc/osirrc2019-runs/tree/master/anserini-bm25prf/robust04/2019-06-28)] | 2019/06/28 | robust04 | `Standard_D64s_v3` | `v0.1.1` | `v0.2.2`
 [[link](https://github.com/osirrc/osirrc2019-runs/tree/master/anserini-bm25prf/robust04/2019-06-21)] | 2019/06/21 | robust04 | `Standard_D64s_v3` | `v0.1.0` | `v0.2.2`
 
 <a name="ATIRE"></a>
