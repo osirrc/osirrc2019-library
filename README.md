@@ -7,6 +7,8 @@ The actual raw runs are held in a [separate repository](https://github.com/osirr
 + [Anserini-bm25prf](#Anserini-bm25prf)
 + [ATIRE](#ATIRE)
 + [Birch](#Birch)
++ [galago](#galago)
++ [ielab](#ielab)
 + [Indri](#Indri)
 + [IRC-CENTRE2019](#IRC-CENTRE2019)
 + [JASS](#JASS)
@@ -76,6 +78,18 @@ Output | Date | Collection | Host | Jig | Image |
 :------|:-----|:-----------|:-----|:----|:------|
 [[link](https://github.com/osirrc/osirrc2019-runs/tree/master/birch/robust04/2019-06-28)] | 2019/06/28 | robust04 | `Standard_D64s_v3` | `v0.1.1` | `v0.1.0`
 [[link](https://github.com/osirrc/osirrc2019-runs/tree/master/birch/robust04/2019-06-17)] | 2019/06/17 | robust04 | `Standard_D64s_v3` | `v0.1.0` | `v0.1.0`
+
+<a name="galago"></a>
+## galago
+[![Generic badge](https://img.shields.io/badge/GitHub-go%21-green.svg)](https://github.com/osirrc/galago-docker)
+[![Generic badge](https://img.shields.io/badge/DockerHub-go%21-yellow.svg)](https://hub.docker.com/r/osirrc2019/galago)
+[![DOI](https://zenodo.org/badge/193567421.svg)](https://zenodo.org/badge/latestdoi/193567421)
+
+Execution log:
+
+Output | Date | Collection | Host | Jig | Image |
+:------|:-----|:-----------|:-----|:----|:------|
+[[link](https://github.com/osirrc/osirrc2019-runs/tree/master/galago/robust04/2019-06-28)] | 2019/06/28 | robust04 | `Standard_D64s_v3` | `v0.1.1` | `v0.0.2`
 
 <a name="ielab"></a>
 ## ielab
