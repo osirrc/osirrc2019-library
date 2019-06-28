@@ -186,6 +186,7 @@ Execution log:
 
 Output | Date | Collection | Host | Jig | Image |
 :------|:-----|:-----------|:-----|:----|:------|
+[[link](https://github.com/osirrc/osirrc2019-runs/tree/master/olddog/robust04/2019-06-28)] | 2019/06/28 | robust04 | `Standard_D64s_v3` | `v0.1.1` | `v1.0.0`
 [[link](https://github.com/osirrc/osirrc2019-runs/tree/master/olddog/robust04/2019-06-17)] | 2019/06/17 | robust04 | `Standard_D64s_v3` | `v0.1.0` | `v0.2.0`
 [[link](https://github.com/osirrc/osirrc2019-runs/tree/master/olddog/robust04/2019-05-27)] | 2019/05/27 | robust04 |  `Standard_D64s_v3` | [`2307f2c`](https://github.com/osirrc/jig/commit/2307f2c0171ee4808940a634e471955f55def1a3) | [`dd8b230`](https://github.com/osirrc/olddog-docker/commit/dd8b23036b76cd0f2d004b6823b0c17065013eb7)
 
