@@ -160,7 +160,7 @@ Execution log:
 
 Output | Date | Collection | Host | Jig | Image |
 :------|:-----|:-----------|:-----|:----|:------|
-[[link](https://github.com/osirrc/osirrc2019-runs/tree/master/nvsm/robust04/2019-06-24)] | 2019/06/124| robust04 | `Standard_D64s_v3` | `v0.1.0` | `v0.1.0`
+[[link](https://github.com/osirrc/osirrc2019-runs/tree/master/nvsm/robust04/2019-06-24)] | 2019/06/24 | robust04 | `Standard_D64s_v3` | `v0.1.0` | `v0.1.0`
 
 <a name="OldDog"></a>
 ## OldDog
