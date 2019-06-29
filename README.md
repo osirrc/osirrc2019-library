@@ -8,6 +8,7 @@ The actual raw runs are held in a [separate repository](https://github.com/osirr
 + [ATIRE](#ATIRE)
 + [Birch](#Birch)
 + [Elastirini](#Elastirini)
++ [EntityRetrieval](#EntityRetrieval)
 + [Galago](#Galago)
 + [ielab](#ielab)
 + [Indri](#Indri)
@@ -88,6 +89,19 @@ Output | Date | Collection | Host | Jig | Image |
 [![DOI](https://zenodo.org/badge/191802305.svg)](https://zenodo.org/badge/latestdoi/191802305)
 
 Elastirini is configured to produce the same exact batch runs as [Anserini](#Anserini), but provides an additional `interact` hook starts up Elasticsearch to support interactive querying.
+
+<a name="EntityRetrieval"></a>
+## EntityRetrieval
+[![Generic badge](https://img.shields.io/badge/GitHub-go%21-green.svg)](https://github.com/osirrc/entityretrieval-docker)
+[![Generic badge](https://img.shields.io/badge/DockerHub-go%21-yellow.svg)](https://hub.docker.com/r/osirrc2019/entityretrieval)
+[![DOI](https://zenodo.org/badge/189270514.svg)](https://zenodo.org/badge/latestdoi/189270514)
+
+Execution log:
+
+Output | Date | Collection | Host | Jig | Image |
+:------|:-----|:-----------|:-----|:----|:------|
+[[link](https://github.com/osirrc/osirrc2019-runs/tree/master/birch/robust04/2019-06-28)] | 2019/06/28 | robust04 | `Standard_D64s_v3` | `v0.1.1` | `v0.1.0`
+[[link](https://github.com/osirrc/osirrc2019-runs/tree/master/birch/robust04/2019-06-17)] | 2019/06/17 | robust04 | `Standard_D64s_v3` | `v0.1.0` | `v0.1.0`
 
 <a name="Galago"></a>
 ## Galago
